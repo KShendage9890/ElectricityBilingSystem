@@ -1,0 +1,29 @@
+# Ignore compiled class files
+*.class
+
+# Ignore logs
+*.log
+
+# BlueJ specific
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Eclipse project settings
+.project
+.classpath
+.settings/
+
+# Maven / Gradle / IDE builds
+target/
+bin/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
